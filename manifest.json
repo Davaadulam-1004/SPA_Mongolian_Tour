@@ -6,9 +6,9 @@
   "display": "standalone",
   "name": "davaadulam1000.github",
   "orientation": "any",
-  "scope": "/",
-  "short_name": "/SPA_Mongolian_Tour",
-  "start_url": "/",
+  "scope": "/SPA_Mongolian_Tour/",
+  "short_name": "SPA_Mongolian_Tour",
+  "start_url": "/SPA_Mongolian_Tour/",
   "theme_color": "#ffd732",
   "related_applications": [],
   "prefer_related_applications": false,
@@ -53,6 +53,6 @@
       "type": "image/png"
     }
   ],
-  "url": "https://davaadulam1000.github.io/",
+  "url": "https://davaadulam1000.github.io/SPA_Mongolian_Tour/",
   "generated": true
 }
